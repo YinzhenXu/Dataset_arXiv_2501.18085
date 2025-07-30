@@ -33,3 +33,5 @@ A sample Mathematica notebook (Plot.nb) is provided to demonstrate how to load a
 For more details, please refer to the paper.
 
 For questions or additional data, please contact: xuyz.phys@gmail.com.
+
+Thank you for your attention. Best wishes for your academic and professional pursuits.
