@@ -8,9 +8,9 @@ Data descriptions:
 
 This dataset provides the distribution amplitudes (DAs) of mesons, including: 
 
-pseudoscalar mesons: pi^+, K, D, B, eta_s, D_s, B_s, eta_b, B_c 
+pseudoscalar mesons: pi, K, D, B, eta_s, D_s, B_s, eta_b, B_c 
 
-vector mesons: pi^+, K^\*, D^\*, B^\*, phi, D^\*_s, B^\*_s, Upslion, B^\*_c 
+vector mesons: pi, K^\*, D^\*, B^\*, phi, D^\*_s, B^\*_s, Upslion, B^\*_c 
 
 Data format:
 
