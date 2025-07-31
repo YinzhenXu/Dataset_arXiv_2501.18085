@@ -1,4 +1,4 @@
-This repository contains the main generated data associated with the paper "Distribution amplitudes of heavy-light pseudoscalar and vector mesons from Dyson-Schwinger equations framework" (arXiv:2501.18085).
+This repository contains the main data produced in the paper "Distribution amplitudes of heavy-light pseudoscalar and vector mesons from Dyson-Schwinger equations framework" (arXiv:2501.18085).
 
 If you use this data in your work, please cite the paper via the following INSPIRE-HEP entry: https://inspirehep.net/literature/2874193
 
